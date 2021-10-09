@@ -1,1 +1,0 @@
-# amd_ryzenv3x5cl
